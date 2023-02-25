@@ -75,8 +75,8 @@ class Calculator {
      */
     String createUniqueID(String n){
 
-//        return n + randomUUID();
-        return null;
+        return n + randomUUID();
+
     }
 
 
