@@ -5,8 +5,6 @@ import static java.util.UUID.randomUUID;
 
 class Calculator {
 
-    //change
-
     Calculator(){
 
     }
